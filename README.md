@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aswin Prakash
 - 👀 I’m interested in Embedded C programming
-- 🌱 I’m currently learning Embedded System
+- 🌱 I’m currently working as Embedded Software Engineer
 - 💞️ I’m looking for my first job in Embedded System domain
 - 📫 How to reach me on aswinprakshdx@gmail.com
 - 😄 Pronouns: ...
